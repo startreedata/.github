@@ -35,3 +35,10 @@ StarTree builds a real-time analytics platform powered by Apache Pinot. StarTree
 | ODBC | [pinot-odbc-driver](https://github.com/startreedata/pinot-odbc-driver) |
 
 See the [Apache Pinot client documentation](https://docs.pinot.apache.org/build-with-pinot/connectors-clients-apis/client-libraries) for connection guides and usage examples.
+
+## Integrations
+
+- [Grafana](https://github.com/startreedata/startree-grafana-pinot-datasource) — Query and visualize Apache Pinot data in Grafana dashboards.
+- [Metabase](https://github.com/startreedata/metabase-pinot-driver) — Connect Metabase to Apache Pinot for business intelligence and data exploration.
+- [Tableau](https://github.com/startreedata/startree-tableau-connector) — Connect Tableau to Apache Pinot through JDBC.
+- [Hasura](https://github.com/startreedata/ndc-pinot) — Query Apache Pinot through GraphQL with the Hasura Native Data Connector.
