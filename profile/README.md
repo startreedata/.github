@@ -12,5 +12,4 @@ StarTree builds a real-time analytics platform powered by Apache Pinot. StarTree
 ## Open source
 
 - [Apache Pinot](https://pinot.apache.org/) — The open-source database powering StarTree.
-- [ThirdEye](https://github.com/startreedata/thirdeye) — Anomaly detection and root cause analysis.
 - [MCP Server for Apache Pinot](https://github.com/startreedata/mcp-pinot) — Connect AI assistants to Apache Pinot.
