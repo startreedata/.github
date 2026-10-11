@@ -1,4 +1,13 @@
-# StarTree
+<p align="center">
+  <a href="https://startree.ai/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/startree-logo-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/startree-logo-light.svg" />
+      <img align="middle" src="assets/startree-logo-light.svg" alt="StarTree" width="280" />
+    </picture>
+  </a>
+  <img align="middle" src="assets/dash.png" alt="Dash, the StarTree mascot" width="140" />
+</p>
 
 StarTree builds a real-time analytics platform powered by Apache Pinot. StarTree Cloud provides a fully managed service with enterprise capabilities for ingesting, querying, and managing streaming and lakehouse data.
 
